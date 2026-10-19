@@ -1,0 +1,6 @@
+[
+  {"name": "Ana", "email": "ana@fiap.com.br", "stage": "novo"},
+  {"name": "Bruno", "email": "bruno@goodwe.com", "stage": "contato"},
+  {"name": "Ana Paula", "email": "ANA@fiap.com.br", "stage": "ganho"},
+  {"name": "Carla", "email": "carla@fiap.com.br", "stage": "proposta"}
+]
